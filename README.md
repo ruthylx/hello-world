@@ -1,5 +1,5 @@
 # hello-world
 learning new systems
 
-I want to learn Githb for clinical guideline version control 
+I want to learn Github for clinical guideline version control 
 
